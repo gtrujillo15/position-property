@@ -1,0 +1,42 @@
+.static {
+    border: 1px solid green;
+    padding: 10px;
+    position: static;
+    margin-bottom: 30px;
+}
+
+.relative-1 {
+    border: 1px solid blue;
+    padding: 10px;
+    position: relative;
+}
+
+.relative-2 {
+    border: 1px solid red;
+    padding: 10px;
+    width: 800px;
+    position: relative;
+    left: 800px;
+    bottom: 40px;
+}
+
+.static-1 {
+    border: 1px solid orange;
+}
+
+.absolute {
+    border: 1px solid black;
+    padding: 10px;
+    position: asbolute;
+    width: 150px;
+    top: 30px;
+}
+
+.fixed {
+    border: 1px solid purple;
+    padding: 10px;
+    position: fixed;
+    width: 150px;
+    top: 0px;
+    right: 0px;
+}
