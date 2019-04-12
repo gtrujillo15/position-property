@@ -1,14 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css?family=Dokdo'); */
+
 .static {
     border: 1px solid green;
     padding: 10px;
     position: static;
     margin-bottom: 30px;
+    font-family: 'Dokdo', cursive;
 }
 
 .relative-1 {
     border: 1px solid blue;
     padding: 10px;
     position: relative;
+    font-family: 'Roboto', sans-serif;
 }
 
 .relative-2 {
@@ -18,6 +22,8 @@
     position: relative;
     left: 800px;
     bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
 }
 
 .static-1 {
