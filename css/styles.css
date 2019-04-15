@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css?family=Dokdo'); */
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Dokdo|Roboto');
 
 .static {
     border: 1px solid green;
@@ -36,6 +36,7 @@
     position: asbolute;
     width: 150px;
     top: 30px;
+    font-family: 'Dancing Script', cursive;
 }
 
 .fixed {
@@ -45,4 +46,5 @@
     width: 150px;
     top: 0px;
     right: 0px;
+    font-family: 'Roboto', sans-serif;
 }
